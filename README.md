@@ -9,7 +9,7 @@
 # Features
 <ul>
   <li>Preprocessing email text data (e.g., removing stopwords,punctuations,lowercasing and tokenisation).</li>
-  <li>Feature extraction using <strong>TF-IDF</strong> Vectorization.</li>
+  <li>Feature extraction using the <strong>TF-IDF</strong> Vectorization.</li>
   <li>Spam classification using supervised learning algorithms such as:
      <ul> 
         <li>Naive Bayes</li>
