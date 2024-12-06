@@ -1,7 +1,10 @@
 # P3-Spam-Email-Classification-using-NLP-and-ML
 # Project Overview 
 <p> This project implements a spam mail detection system using Natural Language Processing (NLP) and Machine Learning techniques. the goal is to classify email messages as either spam or ham (non-spam). The system preprocesses the email content, extracts relevant features, and uses a machine learning classifier to predict the email's category.</p>
-<p> This model is trained and tested by the dataset named spam(added in the Repository). </p>
+
+
+# Dataset
+<p> The dataset used for this project consists of labeled emails as spam or non-spam. It includes a variety of emails collected from different sources to ensure diversity and robustness. </p>
 
 # Features
 <ul>
