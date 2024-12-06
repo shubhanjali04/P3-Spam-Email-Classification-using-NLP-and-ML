@@ -39,3 +39,7 @@
     <li>Test the model</li>
     <li>Predict new emails</li>
  </ul>
+
+# Checkout the live demo of the Project.
+
+https://p3-spam-email-classification-using-nlp-and-ml-ymaecwmtpaw3zdqp.streamlit.app/
