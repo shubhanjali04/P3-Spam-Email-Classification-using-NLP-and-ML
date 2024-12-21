@@ -13,7 +13,7 @@
   <li>Spam classification using supervised learning algorithms such as:
      <ul> 
         <li>Naive Bayes</li>
-        <li>Support Vector Macchines</li>
+        <li>Support Vector Machines</li>
         <li>Logistic Regression</li>
      </ul>
 </ul>
